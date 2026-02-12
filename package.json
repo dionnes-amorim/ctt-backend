@@ -1,5 +1,8 @@
 {
   "name": "ctt-backend",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
 }
